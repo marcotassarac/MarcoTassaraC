@@ -1,24 +1,24 @@
-# Hi, I'm Marco Tassara 👋
+# Hi, I'm Marco Tassara 
 
 Full-Stack Developer focused on building intelligent systems powered by modern web architecture and AI integration.
 
-## 🚀 What I build
+##  What I build
 - AI-assisted applications
 - Serverless architectures
 - Intelligent automation systems
 - Full-stack web platforms
 
-## 🧠 Tech Stack
+##  Tech Stack
 Next.js · React · TypeScript · Supabase · PostgreSQL · Prisma · Tailwind · Serverless · AI Integration
 
-## 📌 Featured Project
-👉 **Ahorr-E — AI Personal Finance Platform**
+##  Featured Project
+ **Ahorr-E — AI Personal Finance Platform**
 AI-powered financial decision system combining budgeting, market data analysis and grounded AI recommendations.
 
-## 🎯 Currently Learning
+##  Currently Learning
 - Software Architecture
 - Applied Artificial Intelligence
 - Scalable Backend Systems
 
-## 📫 Connect
-LinkedIn: (pon tu link aquí)
+## Connect
+Puedes encontrarme en LinkedIn: (https://www.linkedin.com/in/marco-tassara-718ba0356/)
